@@ -10,11 +10,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
+import TestComponent from 'imanmh-test-component';
 import s from './Home.css';
-import TestComponent from './../../external-components/react-component-boilerplate-master';
 
 console.log('-----------vv-----------');
-console.log(JSON.stringify(TestComponent));
+console.log(TestComponent);
 console.log('------------------------');
 
 

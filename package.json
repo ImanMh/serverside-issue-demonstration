@@ -24,6 +24,7 @@
     "express-jwt": "^5.3.0",
     "graphql": "^0.10.3",
     "history": "^4.6.3",
+    "imanmh-test-component": "^5.0.2",
     "isomorphic-style-loader": "^3.0.0",
     "jsonwebtoken": "^7.4.1",
     "node-fetch": "^1.7.1",
